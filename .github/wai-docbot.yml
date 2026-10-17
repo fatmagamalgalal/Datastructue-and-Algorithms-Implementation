@@ -1,0 +1,6 @@
+docs_folder: "_docs"              # Folder where documentation will be saved
+include_extensions: [".py"] # Languages to document
+exclude:                          # Folders/files to skip
+  - "node_modules/**"
+  - "dist/**"
+  - "venv/**"
